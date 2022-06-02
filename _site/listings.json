@@ -2,8 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/speaker_call/index.html",
+      "/posts/Mir-Community-Highlight-Andy-Murtha/index.html",
+      "/posts/MiR Community Highlight: Yanina Noemí Bellini Saibene/index.html",
+      "/posts/rstudio_instructor_training/index.html",
+      "/posts/Editorial Calendar/index.html",
+      "/posts/2022-01-11-hello-2022/index.html",
+      "/posts/newwebsiteVolunteerpositions/index.html",
+      "/posts/2022-01-11-climatesurveyresults/index.html",
+      "/posts/LGBTQrainbowR/index.html",
+      "/posts/rforUsNov21/index.html"
     ]
   }
 ]

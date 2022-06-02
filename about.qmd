@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+# image: MiR-logo2.png
 about:
   template: jolla
   links:
@@ -16,4 +16,39 @@ about:
 
 ---
 
-About this blog
+
+<img height='300' align='center' src='MiR-logo2.png'>
+
+We advocate for the visibility and leadership of R users from marginalized races, genders, and the disabled community.
+
+
+## Vision
+
+MiR Community aims to support historically underrepresented R users around the world.
+
+Our hope is to provide a space of belonging and support for people who identify as underrepresented minority R useRs. Through community-led efforts, we hope to provide opportunities for historically underrepresented minorities to grow professionally and to contribute to the R community.
+
+### *A Space for Belonging!*
+  
+The larger R community is full of talented, kind, generous folks all over the world. Our goal is to make sure that more folks, no matter who they are or where they're from has access to R, opportunities for success with R programming language, and feels welcomed to contribute to the global community.
+
+## Meet the Team!
+
+Community Co-Founder, Operations Lead [Danielle Smalls-Perkins](https://twitter.com/smallperks)
+
+Community Co-Founder, Operations Lead [Dorris Scott](https://twitter.com/Dorris_Scott)
+
+Co-Lead, Accessibility Team [Silvia Canelón](https://twitter.com/spcanelon)
+
+Co-Lead, Accessibility Team [Liz Hare](https://twitter.com/DogGeneticsLLC)
+
+Lead, Partnerships Team  [Audris Campbell](https://www.linkedin.com/in/audriscampbell/)
+
+Co-Lead, RStudio Instructor Certification Team, [Andy Murtha](https://www.github.com/amurtha80)
+
+Co-Lead, RStudio Instructor Certification Team, [Meenakshi Kushwaha](https://twitter.com/envhealthspeak)
+
+Website Whiz & Contributor, [Ola Giwa](https://github.com/zaynaib)
+  
+Contributor, [Zane Dax (She/They)](https://github.com/PythonCoderUnicorn)
+
